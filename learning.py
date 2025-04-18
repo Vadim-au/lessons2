@@ -34,4 +34,3 @@ print(fruits)
 
 fruits.remove("orange") # Удаляет выбранный элемент
 print(fruits)
-
